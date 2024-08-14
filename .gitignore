@@ -4,5 +4,5 @@ codes_indev/*
 figures/*
 model_results/*
 documents
-Documents/*
+documents/*
 .gitignore
