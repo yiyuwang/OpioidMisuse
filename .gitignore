@@ -5,3 +5,4 @@ figures/*
 model_results/*
 documents
 Documents/*
+.gitignore
