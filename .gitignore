@@ -5,3 +5,7 @@ figures/*
 model_results/*
 documents
 documents/*
+figures_collapsed
+model_results_collapsed
+figures_collapsed/*
+model_results_collapsed/*
