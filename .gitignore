@@ -1,11 +1,11 @@
 data/*
 codes_indev
 codes_indev/*
-figures/*
-model_results/*
 documents
 documents/*
-figures_collapsed
-model_results_collapsed
-figures_collapsed/*
-model_results_collapsed/*
+archives
+archives/*
+figures_mv_imputed
+figures_mv_imputed/*
+model_results_mv_imputed
+model_results_mv_imputed/*
